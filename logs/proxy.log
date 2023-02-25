@@ -1,0 +1,134 @@
+100: CONNECT contile.services.mozilla.com:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:19 2023
+100: Requesting "CONNECT contile.services.mozilla.com:443 HTTP/1.1" from contile.services.mozilla.com
+100: Responding "HTTP/1.1 200 OK"
+101: CONNECT mozilla.cloudflare-dns.com:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:19 2023
+101: Requesting "CONNECT mozilla.cloudflare-dns.com:443 HTTP/1.1" from mozilla.cloudflare-dns.com
+101: Responding "HTTP/1.1 200 OK"
+102: POST http://r3.o.lencr.org/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:19 2023
+103: CONNECT info.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:28 2023
+103: Requesting "CONNECT info.cern.ch:443 HTTP/1.1" from info.cern.ch
+103: Responding "HTTP/1.1 200 OK"
+104: POST http://ocsp.sectigo.com/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:29 2023
+103: Tunnel closed
+105: GET http://info.cern.ch/favicon.ico HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:31 2023
+105: not in cache
+105: Requesting "GET http://info.cern.ch/favicon.ico HTTP/1.1" from info.cern.ch
+105: Received "HTTP/1.1 200 OK" from info.cern.ch
+105: cached, expires at Tue Apr  3 22:33:45 2159
+105: NOTE Last Modified: Fri, 18 Jan 2008 15:26:11 GMT
+105: Responding "HTTP/1.1 200 OK"
+105: Tunnel closed
+106: CONNECT info.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:36 2023
+106: Requesting "CONNECT info.cern.ch:443 HTTP/1.1" from info.cern.ch
+106: Responding "HTTP/1.1 200 OK"
+107: POST http://ocsp.sectigo.com/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:36 2023
+106: Tunnel closed
+108: GET http://info.cern.ch/favicon.ico HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:38 2023
+108: in cache, valid
+108: Responding "HTTP/1.1 200 OK"
+108: Tunnel closed
+109: CONNECT line-mode.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:41 2023
+109: Requesting "CONNECT line-mode.cern.ch:443 HTTP/1.1" from line-mode.cern.ch
+109: Responding "HTTP/1.1 200 OK"
+110: POST http://r3.o.lencr.org/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:41 2023
+109: Tunnel closed
+111: GET http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:44 2023
+112: GET http://line-mode.cern.ch/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:44 2023
+111: not in cache
+111: Requesting "GET http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html HTTP/1.1" from line-mode.cern.ch
+112: not in cache
+112: Requesting "GET http://line-mode.cern.ch/ HTTP/1.1" from line-mode.cern.ch
+111: Received "HTTP/1.1 302 Found" from line-mode.cern.ch
+111: Responding "HTTP/1.1 302 Found"
+111: Tunnel closed
+104: Warning: invalid response
+104: ERROR: 502 Bad Gateway
+104: Tunnel closed
+112: Received "HTTP/1.1 302 Found" from line-mode.cern.ch
+112: Responding "HTTP/1.1 302 Found"
+112: Tunnel closed
+113: CONNECT line-mode.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:44 2023
+113: Requesting "CONNECT line-mode.cern.ch:443 HTTP/1.1" from line-mode.cern.ch
+113: Responding "HTTP/1.1 200 OK"
+114: CONNECT line-mode.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:44 2023
+114: Requesting "CONNECT line-mode.cern.ch:443 HTTP/1.1" from line-mode.cern.ch
+114: Responding "HTTP/1.1 200 OK"
+113: Tunnel closed
+114: Tunnel closed
+115: CONNECT line-mode.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:48 2023
+115: Requesting "CONNECT line-mode.cern.ch:443 HTTP/1.1" from line-mode.cern.ch
+115: Responding "HTTP/1.1 200 OK"
+115: Tunnel closed
+116: CONNECT info.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:51 2023
+116: Requesting "CONNECT info.cern.ch:443 HTTP/1.1" from info.cern.ch
+116: Responding "HTTP/1.1 200 OK"
+107: Warning: invalid response
+107: ERROR: 502 Bad Gateway
+107: Tunnel closed
+117: POST http://ocsp.sectigo.com/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:51 2023
+116: Tunnel closed
+118: GET http://info.cern.ch/favicon.ico HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:05:53 2023
+118: in cache, valid
+118: Responding "HTTP/1.1 200 OK"
+118: Tunnel closed
+119: CONNECT info.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:02 2023
+119: Requesting "CONNECT info.cern.ch:443 HTTP/1.1" from info.cern.ch
+119: Responding "HTTP/1.1 200 OK"
+120: POST http://ocsp.sectigo.com/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:02 2023
+119: Tunnel closed
+121: GET http://info.cern.ch/favicon.ico HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:04 2023
+121: in cache, valid
+121: Responding "HTTP/1.1 200 OK"
+121: Tunnel closed
+122: CONNECT info.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:06 2023
+122: Requesting "CONNECT info.cern.ch:443 HTTP/1.1" from info.cern.ch
+122: Responding "HTTP/1.1 200 OK"
+123: POST http://ocsp.sectigo.com/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:06 2023
+117: Warning: invalid response
+117: ERROR: 502 Bad Gateway
+117: Tunnel closed
+122: Tunnel closed
+124: GET http://info.cern.ch/favicon.ico HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:08 2023
+124: in cache, valid
+124: Responding "HTTP/1.1 200 OK"
+124: Tunnel closed
+125: CONNECT info.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:09 2023
+125: Requesting "CONNECT info.cern.ch:443 HTTP/1.1" from info.cern.ch
+125: Responding "HTTP/1.1 200 OK"
+126: POST http://ocsp.sectigo.com/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:09 2023
+125: Tunnel closed
+127: GET http://info.cern.ch/favicon.ico HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:11 2023
+127: in cache, valid
+127: Responding "HTTP/1.1 200 OK"
+127: Tunnel closed
+128: CONNECT info.cern.ch:443 HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:13 2023
+128: Requesting "CONNECT info.cern.ch:443 HTTP/1.1" from info.cern.ch
+128: Responding "HTTP/1.1 200 OK"
+129: POST http://ocsp.sectigo.com/ HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:14 2023
+128: Tunnel closed
+130: GET http://info.cern.ch/hypertext/WWW/WhatIs.html HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:16 2023
+130: not in cache
+130: Requesting "GET http://info.cern.ch/hypertext/WWW/WhatIs.html HTTP/1.1" from info.cern.ch
+130: Received "HTTP/1.1 200 OK" from info.cern.ch
+130: cached, expires at Tue Apr  3 22:34:30 2159
+130: NOTE Last Modified: Mon, 18 May 1992 13:38:38 GMT
+130: Responding "HTTP/1.1 200 OK"
+130: Tunnel closed
+131: GET http://info.cern.ch/favicon.ico HTTP/1.1 from 76.36.243.136 @ Sat Feb 25 16:06:16 2023
+131: in cache, valid
+131: Responding "HTTP/1.1 200 OK"
+131: Tunnel closed
+120: Warning: invalid response
+120: ERROR: 502 Bad Gateway
+120: Tunnel closed
+123: Warning: invalid response
+123: ERROR: 502 Bad Gateway
+123: Tunnel closed
+126: Warning: invalid response
+126: ERROR: 502 Bad Gateway
+126: Tunnel closed
+129: Warning: invalid response
+129: ERROR: 502 Bad Gateway
+129: Tunnel closed
+102: Responding "HTTP/1.1   0 Init"
+102: Tunnel closed
